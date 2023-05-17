@@ -7,11 +7,11 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 90%;
-    padding-bottom: 30px;
+    padding-bottom: 85px;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .fixing-text{
@@ -45,6 +45,9 @@ body{
 .lightly{
     margin-top: 50px;
     color: rgba(0, 0, 0, 0.49);
+    border: 5px solid rgba(0, 0, 0, 0.025);
+    border-width: 80%;
+    
 }
 .flexible{
     display: flex;
